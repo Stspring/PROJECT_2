@@ -10,7 +10,6 @@ body {
     margin: 0 auto;
 }
 
-
 a{
  
     text-decoration: none;
@@ -143,7 +142,7 @@ p{
     width: 513px;
     height: 80px;
     margin-top: 0;
-    margin-bottom: 0s;
+    margin-bottom: 0;
 }
 .episodes-but{
     background-color: #118DA8;
@@ -265,7 +264,7 @@ p{
 .epis-tips{
     width: 136px;
     height: 27px;
-        background-color: #191919;
+    background-color: #191919;
     text-align: center;
     border-radius: 7px;
 }
@@ -273,10 +272,11 @@ p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 16px;
     font-weight: 100;
-    width: 104px;
+    
     margin-left: 16px;
     padding-top: 3px;
     margin: 0;
+    
 }
 .epis-p-2{
     width: 773px;
@@ -349,7 +349,7 @@ p{
     height: 66px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 100;
-    font-size: 22px;
+    font-size: 20px;
     color: #ffffff86;
     margin-top: 28px;
 }
@@ -358,7 +358,7 @@ p{
     height: 66px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 100;
-    font-size: 22px;
+    font-size: 20px;
     color: #ffffff86;
     margin-top: 33px;
 }
@@ -458,7 +458,7 @@ p{
     font-weight: 100;
     margin-top: 21px;
     margin-bottom: 19px;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     line-height: 43px;
     margin-right: 60px;
 }
@@ -468,7 +468,7 @@ p{
     font-weight: 100;
     margin-top: 21px;
     margin-bottom: 19px;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     line-height: 43px;
     margin-right: 60px;
 }
@@ -503,7 +503,7 @@ p{
     text-decoration: none;
     font-size: 17px;
     line-height: 27px;
-    letter-spacing: 0%;
+    letter-spacing: 0;
 }
 .Home{
     margin-bottom: 10px;
@@ -513,7 +513,7 @@ p{
     text-decoration: none;
     font-size: 17px;
     line-height: 27px;
-    letter-spacing: 0%;
+    letter-spacing: 0;
 }
 .Style{
     margin-bottom: 10px;
